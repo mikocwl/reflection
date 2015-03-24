@@ -1,0 +1,5 @@
+
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: Its become a new file that I can use git to track
+
+
